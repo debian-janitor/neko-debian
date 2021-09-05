@@ -6,6 +6,7 @@ neko (2.3.0-2) UNRELEASED; urgency=medium
     + debian/rules: Drop --fail-missing argument to dh_missing, which is now the
       default.
   * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
 
  -- Debian Janitor <janitor@jelmer.uk>  Sun, 05 Sep 2021 17:02:00 -0000
 
